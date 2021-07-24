@@ -1,6 +1,6 @@
-package beans1;
+package others;
 import org.springframework.stereotype.Component;
 
 @Component
-public class BeanB {
+public class OtherBeanB {
 }
